@@ -5,8 +5,11 @@ Hyper is Tableau's in-memory Data Engine technology optimized for fast data inge
 ### 2. How to create a calculated field in Tableau?
 
 STEP 1: In Tableau, select Analysis > Create Calculated Field. OR  On right side of serach bar, there is a downward arrow, Click it and select Calculated Field. 
+
 STEP 2: In the Calculation Editor that opens, do the following: Enter a name for the calculated field. 
+
 STEP 3: Type your calculations, like what type of calculation you want to perform.
+
 STEP 4: When finished, click OK. The new calculated field is added to Measures in the Data pane because it returns a number.
 
 ### 3. Can you tell the differences between TreeMap and Heat Map?
