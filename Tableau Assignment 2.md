@@ -22,8 +22,19 @@ Vertical,Horizontal,image extract,Text,Visuals/Worksheet,Filter,Legends,Title (c
 
 ### 5. Based on the given data, analyse and answer the following questions
 ##### a. How much sales have come from customers from the previous in the current year in terms of Sales Value?
+### Year--> 2017 (Current/Latest)
+2014--> $533,024.70
+2015--> $131,772.50
+2016--> $60,906.26
+2017--> $7,511.80
+ 
 
 ##### b. How much sales have come from customers from the previous in the current year in terms of Sales Percentage?
+### Year--> 2017 (Current/Latest)
+2014--> 72.70%
+2015--> 17.97%
+2016--> 8.31%
+2017--> 1.02%
 
 ##### c. Find the orders placed by each customer.
 #### year=2014
