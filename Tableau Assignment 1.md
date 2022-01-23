@@ -48,3 +48,22 @@ Tableau Creator includes two products – Tableau Desktop and Tableau Prep Build
 
 ### 3. In Tableau, how many tables can you join at once?
 Two Tables can be join at once in Tableau.
+
+### 4. What are the various types of connections you may establish with Tableau and your dataset?
+1. Live Connection
+2. Extract Connection
+
+### 5. Analyze the data and respond to the following questions using the information provided.
+
+### 6. What is the store's overall revenue?
+Overall Sales
+$2,297,200.86
+
+
+### 7. What is the total amount of furniture sold to the Customer Segment "Corporate"?
+Furniture	Corporate	$229,019.79
+
+
+### 8. Calculate the average discount for each order priority and choose the one with the most significant value.
+OrderId -- US-2017-152366
+Avg Discount-- 0.8
