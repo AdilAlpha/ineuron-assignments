@@ -10,7 +10,7 @@ STEP 2: In the Calculation Editor that opens, do the following: Enter a name for
 
 STEP 3: Type your calculations, like what type of calculation you want to perform.
 
-STEP 4: When finished, click OK. The new calculated field is added to Measures in the Data pane because it returns a number.
+STEP 4: When finished, click OK. The new calculated field is added to Measures in the Data pane.
 
 ### 3. Can you tell the differences between TreeMap and Heat Map?
 ### A heat map is a two-dimensional representation of information with the help of colors. 
