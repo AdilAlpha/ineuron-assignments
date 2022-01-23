@@ -22,5 +22,28 @@ Vertical,Horizontal,image extract,Text,Visuals/Worksheet,Filter,Legends,Title (c
 
 ### 5. Based on the given data, analyse and answer the following questions
 ##### a. How much sales have come from customers from the previous in the current year in terms of Sales Value?
+
 ##### b. How much sales have come from customers from the previous in the current year in terms of Sales Percentage?
+
 ##### c. Find the orders placed by each customer.
+#### year=2014
+Number of Customer = 595
+Number of Order = 969
+
+### year=2015
+
+2014th loyal Customer:  437,  Number of orders: 807
+2015th Customer:	136,	 Number of orders: 231
+
+### year=2016
+
+2014th loyal Customer:  485,  Number of orders: 996
+2015th loyal Customer:	102,	 Number of orders: 215
+2016th Customer:	51,	 Number of orders: 104
+
+### year=2017  (Latest/Current)
+
+2014th loyal Customer:  517,  Number of orders: 1248
+2015th loyal Customer:	120,	 Number of orders: 293
+2016th loyal Customer:	45,	 Number of orders: 127
+2017th Customer:	11,	 Number of orders: 19
