@@ -1,5 +1,5 @@
-###1. What exactly is Tableau?
-#####Tableau is a powerful and fastest growing data visualisation tool used in BI (business intelligence) industry.
+### 1. What exactly is Tableau?
+##### Tableau is a powerful and fastest growing data visualisation tool used in BI (business intelligence) industry.
 ##### Tableau helps the world’s largest organisations unleash the power of their most valuable assets: their data and their people.
 ##### Allows the customers to spend more time on Data Analysis and less on Data Wrangling.
 ##### It helps in simplifying raw data in a very easily understandable format.
